@@ -19,7 +19,7 @@ function Editor() {
       }
     })      
   }
-
+  
 
     const toolbarOptions = [
         ['bold', 'italic', 'underline', 'strike'],        // toggled buttons
